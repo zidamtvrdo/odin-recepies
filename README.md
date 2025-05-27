@@ -1,7 +1,7 @@
 # odin-recepies
 
 
-Show my main recepie
+Show my favorite recepies
 
 learning: 
     HTML basics
